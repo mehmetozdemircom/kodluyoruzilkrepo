@@ -17,3 +17,6 @@ code .
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+#KODLUYORUZ
+[Kodluyoruz Sayfamız](https://www.kodluyoruz.org/)
