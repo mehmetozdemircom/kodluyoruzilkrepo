@@ -10,7 +10,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/mehmetozdemircom/kodluyoruzilkrepo
 ```
 
 ## Usage
